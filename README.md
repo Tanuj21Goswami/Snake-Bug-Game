@@ -1,5 +1,5 @@
 # Snake-Bug-Game
-A snake game written in Python using the Pygame library.
+The player is in control of a long, slender snake-like creature that moves around on a bordered plane, gathering finsects, while attempting to avoid hitting its own tail or the playing area's edges. The snake's tail lengthens as it consumes insects, making the game harder with each new piece.
 
 
 ## Installing
